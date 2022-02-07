@@ -1,0 +1,4 @@
+Hello
+I am Tejashri Margam
+This is my First Git Directory
+And I am going to commit and change this directory
